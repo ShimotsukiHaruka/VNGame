@@ -49,6 +49,9 @@ Sakura-VN/
 │   ├── scripts.rpy
 │   ├── script_chapter1.rpy
 │   ├── ... (other chapter scripts)
+│── images/
+│   ├── SAKURA.jnp
+├── LISENSE/
 └── README.md
 ```
 
