@@ -2,7 +2,7 @@
 
 > A visual novel about the beauty of things, and the sadness of their passing.
 
-![Sakura Visual Novel](images/SAKURA.jpg)
+![VNGame](images/SAKURA.jpg)
 
 ## Story
 
